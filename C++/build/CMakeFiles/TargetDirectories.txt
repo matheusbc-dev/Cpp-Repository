@@ -1,0 +1,4 @@
+C:/Users/mathe/Cpp-Repository/C++/build/CMakeFiles/pessoa_lib.dir
+C:/Users/mathe/Cpp-Repository/C++/build/CMakeFiles/main.dir
+C:/Users/mathe/Cpp-Repository/C++/build/CMakeFiles/edit_cache.dir
+C:/Users/mathe/Cpp-Repository/C++/build/CMakeFiles/rebuild_cache.dir

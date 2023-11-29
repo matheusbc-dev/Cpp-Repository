@@ -1,0 +1,6 @@
+project("Cpp")
+include_directories("./include")
+add_library(pessoa_lib "./lib/pessoa.cpp")
+set(EXECUTABLE_OUTPUT_PATH "../bin")
+add_executable(main "./main.cpp")
+target_link_libraries(main pessoa_lib)
